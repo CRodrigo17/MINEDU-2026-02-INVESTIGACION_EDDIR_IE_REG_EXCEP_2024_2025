@@ -1,0 +1,14 @@
+# Ignorar carpetas
+documento/
+inputs/
+outputs/
+presentacion/
+scripts/
+
+# Ignorar archivos temporales
+.ipynb_checkpoints/
+.DS_Store
+
+# Mantener notebooks y README
+!notebooks/
+!README.md
